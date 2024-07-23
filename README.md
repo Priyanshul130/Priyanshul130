@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me---
 - 📩piyanshul1307@gmail.com
-- 📱9319930795
+- 📱+91 9319930795
 - 📄priyanshul.is-a.dev
 - 
 
