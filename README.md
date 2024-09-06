@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **shell Scripting and C**
 
-
 - 💬 Ask me about **python,html,css,javascript**
 
 - 📫 How to reach me **piyanshul1307@gmail.com**
