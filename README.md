@@ -2,7 +2,7 @@
 <h3 align="center">🚀  Aspiring Computer Science Enthusiast |BackEnd Developer | Software Engineer |Cybersecurity Expert| Penetration Tester  🚀</h3>
 
 
-- 🌱 I’m currently learning **shell Scripting C and pentesting**
+- 🌱 I’m currently learning **shell Scripting C and pentesting** 
 
 - 💬 Ask me about **python,html,css,javascript**
 
